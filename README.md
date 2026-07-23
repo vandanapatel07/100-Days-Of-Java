@@ -39,8 +39,9 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 01 | Hello World & User Input | ✅ |
 | Day 02 | Variables & Data Types | ✅ |
 | Day 03 | Operators | ✅ |
-| Day 04 | Conditional Statements | ⏳ |
+| Day 04 | Conditional Statements | ✅ |
 | Day 05 | Loops | ⏳ |
+| Day 06 | Methods (Functions) | ⏳ |
 
 ## 🛠️ Tech Stack
 
