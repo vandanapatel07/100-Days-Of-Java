@@ -42,8 +42,9 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 04 | Conditional Statements | ✅ |
 | Day 05 | Loops |  ✅ |
 | Day 06 | Methods (Functions) | ✅ |
-| Day 07 | Arrays | ⏳ |
+| Day 07 | Arrays | ✅ |
 | Day 08 | Strings | ⏳ |
+| Day 09 | Object-Oriented Programming (OOP) Basics | ⏳ |
 
 ## 🛠️ Tech Stack
 
