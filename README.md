@@ -45,8 +45,9 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 07 | Arrays | ✅ |
 | Day 08 | Strings | ✅ |
 | Day 09 | Object-Oriented Programming (OOP) Basics |✅ |
-| Day 10 | Constructors | ⏳ |
+| Day 10 | Constructors | ✅ |
 | Day 11 | this Keyword | ⏳ |
+| Day 12 | static Keyword | ⏳ |
 
 ## 🛠️ Tech Stack
 
