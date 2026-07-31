@@ -47,7 +47,7 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 09 | Object-Oriented Programming (OOP) Basics |✅ |
 | Day 10 | Constructors | ✅ |
 | Day 11 | this Keyword |  ✅ |
-| Day 12 | static Keyword | ⏳ |
+| Day 12 | static Keyword | ✅ |
 | Day 13 | Inheritance (Single Inheritance) | ⏳ |
 
 ## 🛠️ Tech Stack
