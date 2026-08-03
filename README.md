@@ -51,8 +51,9 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 12 | static Keyword | ✅ |
 | Day 13 | Inheritance (Single Inheritance) | ✅ |
 | Day 14 | Multilevel Inheritance | ✅ |
-| Day 15 | Hierarchical Inheritance | ⏳ |
+| Day 15 | Hierarchical Inheritance | ✅ |
 | Day 16 | Multiple Inheritance (Using Interface) | ⏳ |
+| Day 17 | Method Overriding | ⏳ |
 
 ## 🛠️ Tech Stack
 
