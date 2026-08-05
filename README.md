@@ -53,7 +53,9 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 14 | Multilevel Inheritance | ✅ |
 | Day 15 | Hierarchical Inheritance | ✅ |
 | Day 16 | Multiple Inheritance (Using Interface) | ✅ |
-| Day 17 | Method Overriding | ⏳ |
+| Day 17 | Method Overriding | ✅ |
+| Day 18 | Compile-Time Polymorphism (Method Overloading) | ⏳ |
+| Day 19 | Runtime Polymorphism | ⏳ |
 
 ## 🛠️ Tech Stack
 
