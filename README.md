@@ -55,7 +55,9 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 16 | Multiple Inheritance (Using Interface) | ✅ |
 | Day 17 | Method Overriding | ✅ |
 | Day 18 | Compile-Time Polymorphism (Method Overloading) | ✅ |
-| Day 19 | Runtime Polymorphism | ⏳ |
+| Day 19 | Runtime Polymorphism | ✅ |
+| Day 20 | Abstraction | ⏳ |
+| Day 21 | Encapsulation | ⏳ |
 
 ## 🛠️ Tech Stack
 
