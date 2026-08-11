@@ -59,7 +59,7 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 20 | Abstraction | ✅ |
 | Day 21 | Encapsulation | ✅ |
 | Day 22 | Interfaces | ✅ |
-| Day 23 | Exception Handling | ⏳ |
+| Day 23 | Exception Handling | ✅ |
 | Day 24 | Custom Exception | ⏳ |
 ## 🛠️ Tech Stack
 
