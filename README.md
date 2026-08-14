@@ -62,7 +62,9 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 23 | Exception Handling | ✅ |
 | Day 24 | Custom Exception | ✅ |
 | Day 25 | Wrapper Classes | ✅ |
-| Day 26 | ArrayList | ⏳ |
+| Day 26 | ArrayList | ✅ |
+| Day 27 | LinkedList | ⏳ |
+| Day 28 | HashSet | ⏳ |
 ## 🛠️ Tech Stack
 
 - Java
