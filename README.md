@@ -66,7 +66,9 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 27 | LinkedList | ✅ |
 | Day 28 | HashSet | ✅ |
 | Day 29 | HashMap | ✅ |
-| Day 30 | Iterator | ⏳ |
+| Day 30 | Iterator | ✅ |
+| Day 31 | Generics | ⏳ |
+| Day 32 | Comparable & Comparator | ⏳ |
 ## 🛠️ Tech Stack
 
 - Java
