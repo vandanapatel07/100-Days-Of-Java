@@ -33,7 +33,7 @@ I will upload one Java program every day, starting from basic concepts and gradu
 - Build Real Projects
 - Stay Consistent for 100 Days
 
-## 📅 Progress
+## 📅 Progress 
 
 | Day | Topic | Status |
 |------|-------------------------|--------|
