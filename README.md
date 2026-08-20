@@ -67,7 +67,7 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 28 | HashSet | ✅ |
 | Day 29 | HashMap | ✅ |
 | Day 30 | Iterator | ✅ |
-| Day 31 | Generics | ⏳ |
+| Day 31 | Generics | ✅ |
 | Day 32 | Comparable & Comparator | ⏳ |
 ## 🛠️ Tech Stack
 
