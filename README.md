@@ -70,7 +70,7 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 31 | Generics | ✅ |
 | Day 32 | Comparable & Comparator | ✅ |
 | Day 33 | Java Streams | ✅ |
-| Day 34 | Lambda Expressions | ⏳ |
+| Day 34 | Lambda Expressions | ✅ | 
 | Day 35 | Functional Interfaces | ⏳ |
 ## 🛠️ Tech Stack
 
