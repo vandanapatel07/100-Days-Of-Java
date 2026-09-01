@@ -76,9 +76,7 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 37 | File Handling | ✅ |
 | Day 38 | Serialization & Deserialization | ✅ |
 | Day 39 | Date & Time API | ✅ |
-| Day 40 | JDBC Basics | ⏳ |
-| Day 39 | Date & Time API | ✅ |
-| Day 40 | JDBC Basics | ⏳ |
+| Day 40 | JDBC Basics | ✅ |
 
 ## 🛠️ Tech Stack
 
