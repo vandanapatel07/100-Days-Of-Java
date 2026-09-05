@@ -82,6 +82,8 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 43 | Collections Framework | ⏳ |
 | Day 44 | ArrayList & LinkedList | ⏳ |
 | Day 45 | HashMap & HashSet | ⏳ |
+| Day 46 | Iterator & Comparable | ⏳ |
+| Day 47 | Comparator & Sorting | ⏳ |
 
 ## 🛠️ Tech Stack
 
