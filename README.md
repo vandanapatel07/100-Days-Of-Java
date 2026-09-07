@@ -78,7 +78,7 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 39 | Date & Time API | ✅ |
 | Day 40 | JDBC Basics | ✅ |
 | Day 41 | JDBC CRUD Operations | ✅ |
-| Day 42 | Exception Handling & Custom Exceptions | ⏳ |
+| Day 42 | Exception Handling & Custom Exceptions | ✅ |
 | Day 43 | Collections Framework | ⏳ |
 | Day 44 | ArrayList & LinkedList | ⏳ |
 | Day 45 | HashMap & HashSet | ⏳ |
