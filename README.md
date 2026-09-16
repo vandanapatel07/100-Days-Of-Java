@@ -13,7 +13,7 @@ Hi, I'm **Vandana Patel**, a B.Tech (CSE) student passionate about Java programm
 
 ## 📚 About This Repository
 
-This repository contains my daily Java learning journey..
+This repository contains my daily Java learning journey.
 
 I will upload one Java program every day, starting from basic concepts and gradually moving to advanced topics like:
 - Core Java
