@@ -85,7 +85,7 @@ I will upload one Java program every day, starting from basic concepts and gradu
 | Day 46 | Iterator & Comparable | ✅ |
 | Day 47 | Comparator & Sorting | ✅ |
 | Day 48 | Generics | ✅ |
-| Day 49 | Java Enums | ⏳ |
+| Day 49 | Java Enums | ✅ |
 | Day 50 | Mini Project | ⏳ |
 
 
