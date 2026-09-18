@@ -9,7 +9,7 @@
 
 Welcome to my 100 Days of Java Challenge!
 
-Hi, I'm **Vandana Patel**, a B.Tech (CSE) student passionate about Java programming and problem-solving.
+Hi, I'm **Vandana Patel**, a B.Tech (CSE) student passionate about Java programming and problem-solving...
 
 ## 📚 About This Repository
 
